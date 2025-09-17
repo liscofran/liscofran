@@ -30,5 +30,3 @@
 - Email: francescolisco01@gmail.com
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liscofran&layout=compact)
