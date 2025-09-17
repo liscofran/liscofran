@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hello there
 
-<!--
-**liscofran/liscofran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Flutter
+- Java
+- Python
+- C#
+
+---
+
+## 🚀 Project Spotlight
+
+- [FaceReco](https://github.com/liscofran/FaceReco)  
+  <sub>My thesis project—check it out!</sub>
+
+---
+
+## 🎶 Interests
+- Music lover
+- Latin-American dance enthusiast
+
+---
+
+## 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/francesco-lisco-a2305b258)
+- Email: francescolisco01@gmail.com
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liscofran&layout=compact)
